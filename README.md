@@ -12,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ribeirothiagorj&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=ribeirothiagorj&include_all_commits=true&theme=dark_github)
+
+
