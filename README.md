@@ -64,11 +64,22 @@ Estou sempre buscando explorar novas ferramentas, aprimorar conhecimentos e tran
 
 ---
 
-## 🏆 Conquistas GitHub
-
 <div align="center">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=ribeirothiagorj&theme=tokyonight&no-frame=true&no-bg=true&column=4" width="100%" />
+  <h3>Minhas conquistas e reconhecimentos</h3>
+
+  Confira minhas atividades, projetos e contribuições
+  diretamente no GitHub.
+
+  <br/>
+
+  <a href="https://github.com/ribeirothiagorj">
+    🚀 ACESSAR MEU PERFIL NO GITHUB
+  </a>
+
+  <br/><br/>
+
+  ⭐ Cada contribuição representa uma nova evolução!
 
 </div>
 
