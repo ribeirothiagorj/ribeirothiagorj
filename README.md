@@ -5,10 +5,13 @@
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+seja+bem-vindo+ao+meu+perfil!;Desenvolvimento+%7C+Tecnologia+%7C+Inova%C3%A7%C3%A3o;Transformando+ideias+em+solu%C3%A7%C3%B5es." alt="Typing SVG" />
 
-  <p>
-    <img src="https://img.shields.io/badge/GitHub-ribeirothiagorj-181717?style=for-the-badge&logo=github" />
-    <img src="https://img.shields.io/badge/Status-Desenvolvendo%20projetos-00BFFF?style=for-the-badge" />
-  </p>
+  <p align="center">
+  <a href="https://github.com/ribeirothiagorj">
+    <strong>🌐 GITHUB: @ribeirothiagorj</strong>
+  </a>
+  &nbsp; • &nbsp;
+  <strong>🚀 Desenvolvendo projetos</strong>
+</p>
 
 </div>
 
